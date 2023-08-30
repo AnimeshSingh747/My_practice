@@ -5,10 +5,11 @@ public class Operators {
         num++;
     }
 }
+
 //Arithmetic operator  +,/.-.*
 //Assignment =
 //Unary ++ , -- 
 //Relational
 //Logical
-//Tenary
+//Ternary
 //Bitwise

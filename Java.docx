@@ -1,0 +1,16 @@
+.java file -> .class file (bytecode) DONE BY JRE -> Machine code (binary code 0,1) DONE BY JVM
+
+> JDK (JAVA DEVELOPMENT KIT)
+  > JRE (JAVA RUNTIME ENVIRONMENT)
+    > JVM (JAVA VIRTUAL MACHINE)
+      > JIT (JUST IN TIME) JIt runs when the java programe is interpreted 
+                           and its objective is to optimise the java program 
+                           and make it efficient in terms of performance.
+
+
+Difference BETWEEN THESE :-
+                           Compiler - The compiler converts source code into machine code 
+                           directly results in faster performance but very complex debugging.
+
+                           Interpretor - The interpretor converts the whole code into machine 
+                           code by executing line by line results in slower performance but easy debugging.
